@@ -1,0 +1,14 @@
+.root{
+    width:800px;
+    text-align : left;
+    margin : 50px;
+}
+.avatar{
+    background: linear-gradient(45deg, #2196F3 30%, #21CBF3 90%);
+}
+.homeLink{
+    width: 600px;
+    text-decoration: none;
+    box-shadow: none;   
+    color: white;
+   }

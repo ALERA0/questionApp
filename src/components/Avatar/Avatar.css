@@ -1,0 +1,8 @@
+.avatarRoot{
+    max-width: 300px;
+    margin: 40px;
+}
+.modal{
+    display: flex;
+    max-width: 140px;
+}
